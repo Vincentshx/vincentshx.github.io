@@ -1,8 +1,8 @@
 permalink: /:title
 
 title: zhouyingyu
-url: https://zhouyingyu-paying.github.io
+url: https://zhouyingyu-paying.github.io/zhouyingyu
 feed: /atom.xml
-author_info: <a href="https://zhouyingyu-paying.github.io/">BeiYuu</a>
+author_info: <a href="https://zhouyingyu-paying.github.io/zhouyingyu/">BeiYuu</a>
 
 theme: jekyll-theme-slate
